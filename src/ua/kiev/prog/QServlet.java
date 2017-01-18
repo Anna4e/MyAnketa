@@ -44,10 +44,10 @@ public class QServlet extends HttpServlet {
              res.append("Возраст пользователя");
              res.append("</td>");
              res.append("<td>");
-             res.append("Замужем/Женат?");
+             res.append("Владеете ли вы английским?");
              res.append("</td>");
              res.append("<td>");
-             res.append("Есть ли дети?");
+             res.append("Со словарем?");
              res.append("</td>");
              res.append("</tr>");
              res.append("<tr>");
